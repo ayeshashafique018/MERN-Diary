@@ -1,5 +1,5 @@
 # 💖 MERN DIARY: My 100 Days of Code Journey 💻 
-✨ where bugs meet vibes and consistency wins 🧁
+✨ where bugs meet vibes and consistency wins 
 
 Hey you! Yes, *you* scrolling through my repo 👀  
 Welcome to my **coding diary**, where I’ve taken on the ✨ *legendary challenge* ✨ of coding for **100 days straight** — no excuses, just vibes and VS Code! 
