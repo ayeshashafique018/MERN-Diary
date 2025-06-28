@@ -1,4 +1,4 @@
-# 💖 MERN DIARY: My 100 Days of Code Journey 💻 
+# 💖 MERN DIARY: My 100 Days of Code Journey 
 ✨ where bugs meet vibes and consistency wins 
 
 Hey you! Yes, *you* scrolling through my repo 👀  
