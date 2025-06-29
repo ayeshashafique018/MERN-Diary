@@ -28,11 +28,9 @@
 ## 💡 Thoughts & Reflection:
 
 Even though today I didn't build something *new-new*, I’ve taken the most powerful first step — **I started**.  
-This repo will be my public accountability partner, my portfolio journal, and my safe little dev-space 🧁✨
+This repo will be my public accountability partner, my portfolio journal, and my safe little dev-space ✨
 
 Exams or not, **I’m ready for this 100-day challenge** — with Allah’s help. InshAllah I’ll stay consistent, no matter what!
-
----
 
 
 ## 🐾 Little Wins:
