@@ -1,4 +1,4 @@
-# 100 Days Challenge – Day 3 Progress Report
+# 100 Days Challenge – Day 3 Progress 
 
 ## 📅 Date: Day 3
 
