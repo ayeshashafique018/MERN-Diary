@@ -1,10 +1,6 @@
 
 # 100 Days Challenge – Day 2 Notes
 
-**Date:** Day 2
-
----
-
 ### What I did today
 
 - Uploaded two big projects to GitHub:
