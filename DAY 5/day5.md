@@ -1,4 +1,4 @@
-# Day 5 Lab Exam & Project Summary
+# Day 5 
 
 ## What I did today:
 
