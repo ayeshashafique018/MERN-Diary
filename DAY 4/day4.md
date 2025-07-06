@@ -1,4 +1,4 @@
-# Day 4 - My Project Uploads and CCP 
+# Day 4 
 
 Today I uploaded and worked on some cool projects that I’m really proud of and wanted to keep track of:
 
