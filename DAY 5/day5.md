@@ -18,8 +18,6 @@
   - Automates irrigation based on soil moisture, weather, crop type, and time  
   - Includes parsing, semantic analysis, symbol table management, and code generation for irrigation controllers  
 
----
-
 ## Tools & Tech Used:
 
 - **Node.js & React** — for front-end development  
