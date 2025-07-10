@@ -24,7 +24,6 @@
 - **Python 3.x** — for compiler and REPL projects  
 - **colorama module** — for colorful terminal output (`pip install colorama`)  
 
----
 
 ## Notes
 
