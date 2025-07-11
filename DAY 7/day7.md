@@ -1,7 +1,6 @@
 # Day 7 – MERN Stack 100 Days Challenge  
 **Date:** June 1, 2025
 
----
 
 ### What I Accomplished Today  
 - Successfully set up my portfolio website using the lightning-fast **Vite + React** stack.  
