@@ -1,6 +1,6 @@
 # 🌸 Day 1 – MERN Diary: My Coding Chronicles Begin!
 
-> 🗓️ Date: [Replace with today’s date]  
+
 > 🧠 Mood: Excited + Nervous + Determined = POWER MODE 💪  
 > 🎯 Goal: Kick off my 100 Days of MERN journey by uploading my past projects and organizing my repo.
 
