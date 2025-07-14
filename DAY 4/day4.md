@@ -2,7 +2,6 @@
 
 Today I uploaded and worked on some cool projects that I’m really proud of and wanted to keep track of:
 
----
 
 ## Online Voting Management System
 
