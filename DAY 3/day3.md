@@ -2,8 +2,6 @@
 
 ## 📅 Date: Day 3
 
----
-
 ## 🚀 Today's Progress
 
 - Uploaded **pre-existing projects** to GitHub repositories using **terminal commands**:
