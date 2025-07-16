@@ -25,8 +25,6 @@
 - **colorama module** — for colorful terminal output (`pip install colorama`)  
 
 
-## Notes
-
 - The Python REPL project is a cool way to understand how Python interprets code internally, with tokenization and debugging built-in  
 - SISL Compiler ties compiler concepts with real-world applications like smart irrigation  
 - Feeling confident after reviewing all repos and setting up dev environments — ready for lab exam!  
