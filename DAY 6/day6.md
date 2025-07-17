@@ -1,7 +1,4 @@
 # 100 Days Challenge – Day 6 Progress
-
----
-
 ## 🕓 Time Check  
 It's 4:00 PM now.
 
