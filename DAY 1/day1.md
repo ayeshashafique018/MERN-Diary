@@ -4,7 +4,6 @@
 > 🧠 Mood: Excited + Nervous + Determined = POWER MODE 💪  
 > 🎯 Goal: Kick off my 100 Days of MERN journey by uploading my past projects and organizing my repo.
 
----
 
 ## ✅ What I Did Today:
 
