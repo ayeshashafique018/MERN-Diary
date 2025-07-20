@@ -12,8 +12,6 @@
 - Updated and enhanced the **README files** for both projects, ensuring clarity and professionalism.
 - Shared live demo link for the Todo App for easy access and presentation.
 
----
-
 ## 📚 What I Learned Today
 
 ### Git & GitHub
