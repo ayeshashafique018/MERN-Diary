@@ -47,8 +47,6 @@
 - Markdown (professional README formatting)
 - Deployment platforms (e.g., Vercel for live React app)
 
----
-
 
 ## 📝 Reflection
 
