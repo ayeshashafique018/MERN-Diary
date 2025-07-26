@@ -12,8 +12,6 @@ Today I uploaded and worked on some cool projects that I’m really proud of and
 - Connected database using JDBC
 - Learned a lot about OOP concepts like polymorphism and abstraction
 
----
-
 ## Assembly Line Scheduling Problem (ALSP)
 
 - Written in C++
