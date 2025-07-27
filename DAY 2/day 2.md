@@ -1,7 +1,5 @@
 
-# 100 Days Challenge – Day 2 Notes
-
-### What I did today
+# 100 Days Challenge – Day 2 Notes What I did today
 
 - Uploaded two big projects to GitHub:
   - BST Dictionary Management System (C++ using Binary Search Tree)
