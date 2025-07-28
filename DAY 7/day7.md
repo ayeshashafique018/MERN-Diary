@@ -9,8 +9,6 @@
 - Integrated **Bootstrap 5** for streamlined, responsive styling and consistent UI elements.  
 - Focused on establishing the core layout and visual structure—setting the stage for a polished, professional portfolio.
 
----
-
 ### Key Takeaways  
 - Mastered quick and efficient React app scaffolding with **Vite**, significantly speeding up development cycles.  
 - Gained hands-on experience integrating Bootstrap CSS into a React environment, boosting design flexibility.  
