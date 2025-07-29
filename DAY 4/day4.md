@@ -22,7 +22,6 @@ Today I uploaded and worked on some cool projects that I’m really proud of and
 - Compared my algorithm with others like FCFS and SJF
 - This one was tricky but super rewarding for learning algorithms
 
----
 
 ## Summary
 
